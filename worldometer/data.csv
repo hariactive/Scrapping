@@ -1,0 +1,688 @@
+country_name,country_link
+USA,https://www.worldometers.info/coronavirus/country/us/
+India,https://www.worldometers.info/coronavirus/country/india/
+France,https://www.worldometers.info/coronavirus/country/france/
+Germany,https://www.worldometers.info/coronavirus/country/germany/
+Brazil,https://www.worldometers.info/coronavirus/country/brazil/
+S. Korea,https://www.worldometers.info/coronavirus/country/south-korea/
+Japan,https://www.worldometers.info/coronavirus/country/japan/
+Italy,https://www.worldometers.info/coronavirus/country/italy/
+UK,https://www.worldometers.info/coronavirus/country/uk/
+Russia,https://www.worldometers.info/coronavirus/country/russia/
+Turkey,https://www.worldometers.info/coronavirus/country/turkey/
+Spain,https://www.worldometers.info/coronavirus/country/spain/
+Australia,https://www.worldometers.info/coronavirus/country/australia/
+Vietnam,https://www.worldometers.info/coronavirus/country/viet-nam/
+Taiwan,https://www.worldometers.info/coronavirus/country/taiwan/
+Argentina,https://www.worldometers.info/coronavirus/country/argentina/
+Netherlands,https://www.worldometers.info/coronavirus/country/netherlands/
+Mexico,https://www.worldometers.info/coronavirus/country/mexico/
+Iran,https://www.worldometers.info/coronavirus/country/iran/
+Indonesia,https://www.worldometers.info/coronavirus/country/indonesia/
+Poland,https://www.worldometers.info/coronavirus/country/poland/
+Colombia,https://www.worldometers.info/coronavirus/country/colombia/
+Greece,https://www.worldometers.info/coronavirus/country/greece/
+Austria,https://www.worldometers.info/coronavirus/country/austria/
+Portugal,https://www.worldometers.info/coronavirus/country/portugal/
+Ukraine,https://www.worldometers.info/coronavirus/country/ukraine/
+Chile,https://www.worldometers.info/coronavirus/country/chile/
+Malaysia,https://www.worldometers.info/coronavirus/country/malaysia/
+Israel,https://www.worldometers.info/coronavirus/country/israel/
+Belgium,https://www.worldometers.info/coronavirus/country/belgium/
+DPRK,https://www.worldometers.info/coronavirus/country/north-korea/
+Canada,https://www.worldometers.info/coronavirus/country/canada/
+Thailand,https://www.worldometers.info/coronavirus/country/thailand/
+Czechia,https://www.worldometers.info/coronavirus/country/czech-republic/
+Peru,https://www.worldometers.info/coronavirus/country/peru/
+Switzerland,https://www.worldometers.info/coronavirus/country/switzerland/
+Philippines,https://www.worldometers.info/coronavirus/country/philippines/
+South Africa,https://www.worldometers.info/coronavirus/country/south-africa/
+Romania,https://www.worldometers.info/coronavirus/country/romania/
+Denmark,https://www.worldometers.info/coronavirus/country/denmark/
+Hong Kong,https://www.worldometers.info/coronavirus/country/china-hong-kong-sar/
+Sweden,https://www.worldometers.info/coronavirus/country/sweden/
+Singapore,https://www.worldometers.info/coronavirus/country/singapore/
+Serbia,https://www.worldometers.info/coronavirus/country/serbia/
+New Zealand,https://www.worldometers.info/coronavirus/country/new-zealand/
+Iraq,https://www.worldometers.info/coronavirus/country/iraq/
+Hungary,https://www.worldometers.info/coronavirus/country/hungary/
+Bangladesh,https://www.worldometers.info/coronavirus/country/bangladesh/
+Slovakia,https://www.worldometers.info/coronavirus/country/slovakia/
+Georgia,https://www.worldometers.info/coronavirus/country/georgia/
+Jordan,https://www.worldometers.info/coronavirus/country/jordan/
+Ireland,https://www.worldometers.info/coronavirus/country/ireland/
+Pakistan,https://www.worldometers.info/coronavirus/country/pakistan/
+Norway,https://www.worldometers.info/coronavirus/country/norway/
+Finland,https://www.worldometers.info/coronavirus/country/finland/
+Kazakhstan,https://www.worldometers.info/coronavirus/country/kazakhstan/
+Slovenia,https://www.worldometers.info/coronavirus/country/slovenia/
+Lithuania,https://www.worldometers.info/coronavirus/country/lithuania/
+Bulgaria,https://www.worldometers.info/coronavirus/country/bulgaria/
+Guatemala,https://www.worldometers.info/coronavirus/country/guatemala/
+Morocco,https://www.worldometers.info/coronavirus/country/morocco/
+Croatia,https://www.worldometers.info/coronavirus/country/croatia/
+Lebanon,https://www.worldometers.info/coronavirus/country/lebanon/
+Costa Rica,https://www.worldometers.info/coronavirus/country/costa-rica/
+Bolivia,https://www.worldometers.info/coronavirus/country/bolivia/
+Tunisia,https://www.worldometers.info/coronavirus/country/tunisia/
+Cuba,https://www.worldometers.info/coronavirus/country/cuba/
+Ecuador,https://www.worldometers.info/coronavirus/country/ecuador/
+UAE,https://www.worldometers.info/coronavirus/country/united-arab-emirates/
+Panama,https://www.worldometers.info/coronavirus/country/panama/
+Uruguay,https://www.worldometers.info/coronavirus/country/uruguay/
+Mongolia,https://www.worldometers.info/coronavirus/country/mongolia/
+Nepal,https://www.worldometers.info/coronavirus/country/nepal/
+Belarus,https://www.worldometers.info/coronavirus/country/belarus/
+Latvia,https://www.worldometers.info/coronavirus/country/latvia/
+Saudi Arabia,https://www.worldometers.info/coronavirus/country/saudi-arabia/
+Azerbaijan,https://www.worldometers.info/coronavirus/country/azerbaijan/
+Paraguay,https://www.worldometers.info/coronavirus/country/paraguay/
+Bahrain,https://www.worldometers.info/coronavirus/country/bahrain/
+Sri Lanka,https://www.worldometers.info/coronavirus/country/sri-lanka/
+Dominican Republic,https://www.worldometers.info/coronavirus/country/dominican-republic/
+Kuwait,https://www.worldometers.info/coronavirus/country/kuwait/
+Cyprus,https://www.worldometers.info/coronavirus/country/cyprus/
+Myanmar,https://www.worldometers.info/coronavirus/country/myanmar/
+Moldova,https://www.worldometers.info/coronavirus/country/moldova/
+Palestine,https://www.worldometers.info/coronavirus/country/state-of-palestine/
+Estonia,https://www.worldometers.info/coronavirus/country/estonia/
+Venezuela,https://www.worldometers.info/coronavirus/country/venezuela/
+Egypt,https://www.worldometers.info/coronavirus/country/egypt/
+Qatar,https://www.worldometers.info/coronavirus/country/qatar/
+Libya,https://www.worldometers.info/coronavirus/country/libya/
+Ethiopia,https://www.worldometers.info/coronavirus/country/ethiopia/
+Réunion,https://www.worldometers.info/coronavirus/country/reunion/
+Honduras,https://www.worldometers.info/coronavirus/country/honduras/
+Armenia,https://www.worldometers.info/coronavirus/country/armenia/
+Bosnia and Herzegovina,https://www.worldometers.info/coronavirus/country/bosnia-and-herzegovina/
+Oman,https://www.worldometers.info/coronavirus/country/oman/
+Zambia,https://www.worldometers.info/coronavirus/country/zambia/
+North Macedonia,https://www.worldometers.info/coronavirus/country/macedonia/
+Kenya,https://www.worldometers.info/coronavirus/country/kenya/
+Albania,https://www.worldometers.info/coronavirus/country/albania/
+Botswana,https://www.worldometers.info/coronavirus/country/botswana/
+Luxembourg,https://www.worldometers.info/coronavirus/country/luxembourg/
+Brunei ,https://www.worldometers.info/coronavirus/country/brunei-darussalam/
+Montenegro,https://www.worldometers.info/coronavirus/country/montenegro/
+Algeria,https://www.worldometers.info/coronavirus/country/algeria/
+Nigeria,https://www.worldometers.info/coronavirus/country/nigeria/
+Zimbabwe,https://www.worldometers.info/coronavirus/country/zimbabwe/
+Uzbekistan,https://www.worldometers.info/coronavirus/country/uzbekistan/
+Mozambique,https://www.worldometers.info/coronavirus/country/mozambique/
+Martinique,https://www.worldometers.info/coronavirus/country/martinique/
+Afghanistan,https://www.worldometers.info/coronavirus/country/afghanistan/
+Laos,https://www.worldometers.info/coronavirus/country/laos/
+Iceland,https://www.worldometers.info/coronavirus/country/iceland/
+Kyrgyzstan,https://www.worldometers.info/coronavirus/country/kyrgyzstan/
+Guadeloupe,https://www.worldometers.info/coronavirus/country/guadeloupe/
+El Salvador,https://www.worldometers.info/coronavirus/country/el-salvador/
+Trinidad and Tobago,https://www.worldometers.info/coronavirus/country/trinidad-and-tobago/
+Maldives,https://www.worldometers.info/coronavirus/country/maldives/
+Namibia,https://www.worldometers.info/coronavirus/country/namibia/
+Uganda,https://www.worldometers.info/coronavirus/country/uganda/
+Ghana,https://www.worldometers.info/coronavirus/country/ghana/
+Jamaica,https://www.worldometers.info/coronavirus/country/jamaica/
+Cambodia,https://www.worldometers.info/coronavirus/country/cambodia/
+Rwanda,https://www.worldometers.info/coronavirus/country/rwanda/
+Cameroon,https://www.worldometers.info/coronavirus/country/cameroon/
+Malta,https://www.worldometers.info/coronavirus/country/malta/
+Barbados,https://www.worldometers.info/coronavirus/country/barbados/
+Angola,https://www.worldometers.info/coronavirus/country/angola/
+Channel Islands,https://www.worldometers.info/coronavirus/country/channel-islands/
+DRC,https://www.worldometers.info/coronavirus/country/democratic-republic-of-the-congo/
+French Guiana,https://www.worldometers.info/coronavirus/country/french-guiana/
+Senegal,https://www.worldometers.info/coronavirus/country/senegal/
+Malawi,https://www.worldometers.info/coronavirus/country/malawi/
+Ivory Coast,https://www.worldometers.info/coronavirus/country/cote-d-ivoire/
+Suriname,https://www.worldometers.info/coronavirus/country/suriname/
+New Caledonia,https://www.worldometers.info/coronavirus/country/new-caledonia/
+French Polynesia,https://www.worldometers.info/coronavirus/country/french-polynesia/
+Eswatini,https://www.worldometers.info/coronavirus/country/swaziland/
+Guyana,https://www.worldometers.info/coronavirus/country/guyana/
+Belize,https://www.worldometers.info/coronavirus/country/belize/
+Fiji,https://www.worldometers.info/coronavirus/country/fiji/
+Madagascar,https://www.worldometers.info/coronavirus/country/madagascar/
+Cabo Verde,https://www.worldometers.info/coronavirus/country/cabo-verde/
+Sudan,https://www.worldometers.info/coronavirus/country/sudan/
+Mauritania,https://www.worldometers.info/coronavirus/country/mauritania/
+Bhutan,https://www.worldometers.info/coronavirus/country/bhutan/
+Syria,https://www.worldometers.info/coronavirus/country/syria/
+Burundi,https://www.worldometers.info/coronavirus/country/burundi/
+Seychelles,https://www.worldometers.info/coronavirus/country/seychelles/
+Gabon,https://www.worldometers.info/coronavirus/country/gabon/
+Andorra,https://www.worldometers.info/coronavirus/country/andorra/
+Papua New Guinea,https://www.worldometers.info/coronavirus/country/papua-new-guinea/
+Curaçao,https://www.worldometers.info/coronavirus/country/curacao/
+Aruba,https://www.worldometers.info/coronavirus/country/aruba/
+Tanzania,https://www.worldometers.info/coronavirus/country/tanzania/
+Mauritius,https://www.worldometers.info/coronavirus/country/mauritius/
+Mayotte,https://www.worldometers.info/coronavirus/country/mayotte/
+Togo,https://www.worldometers.info/coronavirus/country/togo/
+Guinea,https://www.worldometers.info/coronavirus/country/guinea/
+Bahamas,https://www.worldometers.info/coronavirus/country/bahamas/
+Isle of Man,https://www.worldometers.info/coronavirus/country/isle-of-man/
+Lesotho,https://www.worldometers.info/coronavirus/country/lesotho/
+Faeroe Islands,https://www.worldometers.info/coronavirus/country/faeroe-islands/
+Haiti,https://www.worldometers.info/coronavirus/country/haiti/
+Mali,https://www.worldometers.info/coronavirus/country/mali/
+Cayman Islands,https://www.worldometers.info/coronavirus/country/cayman-islands/
+Saint Lucia,https://www.worldometers.info/coronavirus/country/saint-lucia/
+Benin,https://www.worldometers.info/coronavirus/country/benin/
+Somalia,https://www.worldometers.info/coronavirus/country/somalia/
+Micronesia,https://www.worldometers.info/coronavirus/country/micronesia/
+Congo,https://www.worldometers.info/coronavirus/country/congo/
+San Marino,https://www.worldometers.info/coronavirus/country/san-marino/
+Solomon Islands,https://www.worldometers.info/coronavirus/country/solomon-islands/
+Timor-Leste,https://www.worldometers.info/coronavirus/country/timor-leste/
+Burkina Faso,https://www.worldometers.info/coronavirus/country/burkina-faso/
+Liechtenstein,https://www.worldometers.info/coronavirus/country/liechtenstein/
+Gibraltar,https://www.worldometers.info/coronavirus/country/gibraltar/
+Grenada,https://www.worldometers.info/coronavirus/country/grenada/
+Macao,https://www.worldometers.info/coronavirus/country/china-macao-sar/
+Bermuda,https://www.worldometers.info/coronavirus/country/bermuda/
+Nicaragua,https://www.worldometers.info/coronavirus/country/nicaragua/
+South Sudan,https://www.worldometers.info/coronavirus/country/south-sudan/
+Tajikistan,https://www.worldometers.info/coronavirus/country/tajikistan/
+Equatorial Guinea,https://www.worldometers.info/coronavirus/country/equatorial-guinea/
+Monaco,https://www.worldometers.info/coronavirus/country/monaco/
+Tonga,https://www.worldometers.info/coronavirus/country/tonga/
+Samoa,https://www.worldometers.info/coronavirus/country/samoa/
+Marshall Islands,https://www.worldometers.info/coronavirus/country/marshall-islands/
+Dominica,https://www.worldometers.info/coronavirus/country/dominica/
+Djibouti,https://www.worldometers.info/coronavirus/country/djibouti/
+CAR,https://www.worldometers.info/coronavirus/country/central-african-republic/
+Gambia,https://www.worldometers.info/coronavirus/country/gambia/
+Saint Martin,https://www.worldometers.info/coronavirus/country/saint-martin/
+Vanuatu,https://www.worldometers.info/coronavirus/country/vanuatu/
+Greenland,https://www.worldometers.info/coronavirus/country/greenland/
+Yemen,https://www.worldometers.info/coronavirus/country/yemen/
+Caribbean Netherlands,https://www.worldometers.info/coronavirus/country/caribbean-netherlands/
+Sint Maarten,https://www.worldometers.info/coronavirus/country/sint-maarten/
+Eritrea,https://www.worldometers.info/coronavirus/country/eritrea/
+Niger,https://www.worldometers.info/coronavirus/country/niger/
+St. Vincent Grenadines,https://www.worldometers.info/coronavirus/country/saint-vincent-and-the-grenadines/
+Guinea-Bissau,https://www.worldometers.info/coronavirus/country/guinea-bissau/
+Comoros,https://www.worldometers.info/coronavirus/country/comoros/
+Antigua and Barbuda,https://www.worldometers.info/coronavirus/country/antigua-and-barbuda/
+Liberia,https://www.worldometers.info/coronavirus/country/liberia/
+Sierra Leone,https://www.worldometers.info/coronavirus/country/sierra-leone/
+Chad,https://www.worldometers.info/coronavirus/country/chad/
+British Virgin Islands,https://www.worldometers.info/coronavirus/country/british-virgin-islands/
+Cook Islands,https://www.worldometers.info/coronavirus/country/cook-islands/
+Turks and Caicos,https://www.worldometers.info/coronavirus/country/turks-and-caicos-islands/
+Saint Kitts and Nevis,https://www.worldometers.info/coronavirus/country/saint-kitts-and-nevis/
+Sao Tome and Principe,https://www.worldometers.info/coronavirus/country/sao-tome-and-principe/
+Palau,https://www.worldometers.info/coronavirus/country/palau/
+St. Barth,https://www.worldometers.info/coronavirus/country/saint-barthelemy/
+Nauru,https://www.worldometers.info/coronavirus/country/nauru/
+Kiribati,https://www.worldometers.info/coronavirus/country/kiribati/
+Anguilla,https://www.worldometers.info/coronavirus/country/anguilla/
+Wallis and Futuna,https://www.worldometers.info/coronavirus/country/wallis-and-futuna-islands/
+Saint Pierre Miquelon,https://www.worldometers.info/coronavirus/country/saint-pierre-and-miquelon/
+Tuvalu,https://www.worldometers.info/coronavirus/country/tuvalu/
+Saint Helena,https://www.worldometers.info/coronavirus/country/saint-helena/
+Falkland Islands,https://www.worldometers.info/coronavirus/country/falkland-islands-malvinas/
+Montserrat,https://www.worldometers.info/coronavirus/country/montserrat/
+Niue,https://www.worldometers.info/coronavirus/country/niue/
+Tokelau,https://www.worldometers.info/coronavirus/country/tokelau/
+Vatican City,https://www.worldometers.info/coronavirus/country/holy-see/
+Western Sahara,https://www.worldometers.info/coronavirus/country/western-sahara/
+China,https://www.worldometers.info/coronavirus/country/china/
+China,https://www.worldometers.info/coronavirus/country/china/
+USA,https://www.worldometers.info/coronavirus/country/us/
+India,https://www.worldometers.info/coronavirus/country/india/
+France,https://www.worldometers.info/coronavirus/country/france/
+Germany,https://www.worldometers.info/coronavirus/country/germany/
+Brazil,https://www.worldometers.info/coronavirus/country/brazil/
+S. Korea,https://www.worldometers.info/coronavirus/country/south-korea/
+Japan,https://www.worldometers.info/coronavirus/country/japan/
+Italy,https://www.worldometers.info/coronavirus/country/italy/
+UK,https://www.worldometers.info/coronavirus/country/uk/
+Russia,https://www.worldometers.info/coronavirus/country/russia/
+Turkey,https://www.worldometers.info/coronavirus/country/turkey/
+Spain,https://www.worldometers.info/coronavirus/country/spain/
+Australia,https://www.worldometers.info/coronavirus/country/australia/
+Vietnam,https://www.worldometers.info/coronavirus/country/viet-nam/
+Taiwan,https://www.worldometers.info/coronavirus/country/taiwan/
+Argentina,https://www.worldometers.info/coronavirus/country/argentina/
+Netherlands,https://www.worldometers.info/coronavirus/country/netherlands/
+Mexico,https://www.worldometers.info/coronavirus/country/mexico/
+Iran,https://www.worldometers.info/coronavirus/country/iran/
+Indonesia,https://www.worldometers.info/coronavirus/country/indonesia/
+Poland,https://www.worldometers.info/coronavirus/country/poland/
+Colombia,https://www.worldometers.info/coronavirus/country/colombia/
+Greece,https://www.worldometers.info/coronavirus/country/greece/
+Austria,https://www.worldometers.info/coronavirus/country/austria/
+Portugal,https://www.worldometers.info/coronavirus/country/portugal/
+Ukraine,https://www.worldometers.info/coronavirus/country/ukraine/
+Chile,https://www.worldometers.info/coronavirus/country/chile/
+Malaysia,https://www.worldometers.info/coronavirus/country/malaysia/
+Israel,https://www.worldometers.info/coronavirus/country/israel/
+Belgium,https://www.worldometers.info/coronavirus/country/belgium/
+DPRK,https://www.worldometers.info/coronavirus/country/north-korea/
+Canada,https://www.worldometers.info/coronavirus/country/canada/
+Thailand,https://www.worldometers.info/coronavirus/country/thailand/
+Czechia,https://www.worldometers.info/coronavirus/country/czech-republic/
+Peru,https://www.worldometers.info/coronavirus/country/peru/
+Switzerland,https://www.worldometers.info/coronavirus/country/switzerland/
+Philippines,https://www.worldometers.info/coronavirus/country/philippines/
+South Africa,https://www.worldometers.info/coronavirus/country/south-africa/
+Romania,https://www.worldometers.info/coronavirus/country/romania/
+Denmark,https://www.worldometers.info/coronavirus/country/denmark/
+Hong Kong,https://www.worldometers.info/coronavirus/country/china-hong-kong-sar/
+Sweden,https://www.worldometers.info/coronavirus/country/sweden/
+Singapore,https://www.worldometers.info/coronavirus/country/singapore/
+Serbia,https://www.worldometers.info/coronavirus/country/serbia/
+New Zealand,https://www.worldometers.info/coronavirus/country/new-zealand/
+Iraq,https://www.worldometers.info/coronavirus/country/iraq/
+Hungary,https://www.worldometers.info/coronavirus/country/hungary/
+Bangladesh,https://www.worldometers.info/coronavirus/country/bangladesh/
+Slovakia,https://www.worldometers.info/coronavirus/country/slovakia/
+Georgia,https://www.worldometers.info/coronavirus/country/georgia/
+Jordan,https://www.worldometers.info/coronavirus/country/jordan/
+Ireland,https://www.worldometers.info/coronavirus/country/ireland/
+Pakistan,https://www.worldometers.info/coronavirus/country/pakistan/
+Norway,https://www.worldometers.info/coronavirus/country/norway/
+Finland,https://www.worldometers.info/coronavirus/country/finland/
+Kazakhstan,https://www.worldometers.info/coronavirus/country/kazakhstan/
+Slovenia,https://www.worldometers.info/coronavirus/country/slovenia/
+Lithuania,https://www.worldometers.info/coronavirus/country/lithuania/
+Bulgaria,https://www.worldometers.info/coronavirus/country/bulgaria/
+Guatemala,https://www.worldometers.info/coronavirus/country/guatemala/
+Morocco,https://www.worldometers.info/coronavirus/country/morocco/
+Croatia,https://www.worldometers.info/coronavirus/country/croatia/
+Lebanon,https://www.worldometers.info/coronavirus/country/lebanon/
+Costa Rica,https://www.worldometers.info/coronavirus/country/costa-rica/
+Bolivia,https://www.worldometers.info/coronavirus/country/bolivia/
+Tunisia,https://www.worldometers.info/coronavirus/country/tunisia/
+Cuba,https://www.worldometers.info/coronavirus/country/cuba/
+Ecuador,https://www.worldometers.info/coronavirus/country/ecuador/
+UAE,https://www.worldometers.info/coronavirus/country/united-arab-emirates/
+Panama,https://www.worldometers.info/coronavirus/country/panama/
+Uruguay,https://www.worldometers.info/coronavirus/country/uruguay/
+Mongolia,https://www.worldometers.info/coronavirus/country/mongolia/
+Nepal,https://www.worldometers.info/coronavirus/country/nepal/
+Belarus,https://www.worldometers.info/coronavirus/country/belarus/
+Latvia,https://www.worldometers.info/coronavirus/country/latvia/
+Saudi Arabia,https://www.worldometers.info/coronavirus/country/saudi-arabia/
+Azerbaijan,https://www.worldometers.info/coronavirus/country/azerbaijan/
+Paraguay,https://www.worldometers.info/coronavirus/country/paraguay/
+Bahrain,https://www.worldometers.info/coronavirus/country/bahrain/
+Sri Lanka,https://www.worldometers.info/coronavirus/country/sri-lanka/
+Dominican Republic,https://www.worldometers.info/coronavirus/country/dominican-republic/
+Kuwait,https://www.worldometers.info/coronavirus/country/kuwait/
+Cyprus,https://www.worldometers.info/coronavirus/country/cyprus/
+Myanmar,https://www.worldometers.info/coronavirus/country/myanmar/
+Moldova,https://www.worldometers.info/coronavirus/country/moldova/
+Palestine,https://www.worldometers.info/coronavirus/country/state-of-palestine/
+Estonia,https://www.worldometers.info/coronavirus/country/estonia/
+Venezuela,https://www.worldometers.info/coronavirus/country/venezuela/
+Egypt,https://www.worldometers.info/coronavirus/country/egypt/
+Qatar,https://www.worldometers.info/coronavirus/country/qatar/
+Libya,https://www.worldometers.info/coronavirus/country/libya/
+Ethiopia,https://www.worldometers.info/coronavirus/country/ethiopia/
+Réunion,https://www.worldometers.info/coronavirus/country/reunion/
+Honduras,https://www.worldometers.info/coronavirus/country/honduras/
+Armenia,https://www.worldometers.info/coronavirus/country/armenia/
+Bosnia and Herzegovina,https://www.worldometers.info/coronavirus/country/bosnia-and-herzegovina/
+Oman,https://www.worldometers.info/coronavirus/country/oman/
+Zambia,https://www.worldometers.info/coronavirus/country/zambia/
+North Macedonia,https://www.worldometers.info/coronavirus/country/macedonia/
+Kenya,https://www.worldometers.info/coronavirus/country/kenya/
+Albania,https://www.worldometers.info/coronavirus/country/albania/
+Botswana,https://www.worldometers.info/coronavirus/country/botswana/
+Luxembourg,https://www.worldometers.info/coronavirus/country/luxembourg/
+Brunei ,https://www.worldometers.info/coronavirus/country/brunei-darussalam/
+Montenegro,https://www.worldometers.info/coronavirus/country/montenegro/
+Algeria,https://www.worldometers.info/coronavirus/country/algeria/
+Nigeria,https://www.worldometers.info/coronavirus/country/nigeria/
+Zimbabwe,https://www.worldometers.info/coronavirus/country/zimbabwe/
+Uzbekistan,https://www.worldometers.info/coronavirus/country/uzbekistan/
+Mozambique,https://www.worldometers.info/coronavirus/country/mozambique/
+Martinique,https://www.worldometers.info/coronavirus/country/martinique/
+Afghanistan,https://www.worldometers.info/coronavirus/country/afghanistan/
+Laos,https://www.worldometers.info/coronavirus/country/laos/
+Iceland,https://www.worldometers.info/coronavirus/country/iceland/
+Kyrgyzstan,https://www.worldometers.info/coronavirus/country/kyrgyzstan/
+Guadeloupe,https://www.worldometers.info/coronavirus/country/guadeloupe/
+El Salvador,https://www.worldometers.info/coronavirus/country/el-salvador/
+Trinidad and Tobago,https://www.worldometers.info/coronavirus/country/trinidad-and-tobago/
+Maldives,https://www.worldometers.info/coronavirus/country/maldives/
+Namibia,https://www.worldometers.info/coronavirus/country/namibia/
+Uganda,https://www.worldometers.info/coronavirus/country/uganda/
+Ghana,https://www.worldometers.info/coronavirus/country/ghana/
+Jamaica,https://www.worldometers.info/coronavirus/country/jamaica/
+Cambodia,https://www.worldometers.info/coronavirus/country/cambodia/
+Rwanda,https://www.worldometers.info/coronavirus/country/rwanda/
+Cameroon,https://www.worldometers.info/coronavirus/country/cameroon/
+Malta,https://www.worldometers.info/coronavirus/country/malta/
+Barbados,https://www.worldometers.info/coronavirus/country/barbados/
+Angola,https://www.worldometers.info/coronavirus/country/angola/
+Channel Islands,https://www.worldometers.info/coronavirus/country/channel-islands/
+DRC,https://www.worldometers.info/coronavirus/country/democratic-republic-of-the-congo/
+French Guiana,https://www.worldometers.info/coronavirus/country/french-guiana/
+Senegal,https://www.worldometers.info/coronavirus/country/senegal/
+Malawi,https://www.worldometers.info/coronavirus/country/malawi/
+Ivory Coast,https://www.worldometers.info/coronavirus/country/cote-d-ivoire/
+Suriname,https://www.worldometers.info/coronavirus/country/suriname/
+New Caledonia,https://www.worldometers.info/coronavirus/country/new-caledonia/
+French Polynesia,https://www.worldometers.info/coronavirus/country/french-polynesia/
+Eswatini,https://www.worldometers.info/coronavirus/country/swaziland/
+Guyana,https://www.worldometers.info/coronavirus/country/guyana/
+Belize,https://www.worldometers.info/coronavirus/country/belize/
+Fiji,https://www.worldometers.info/coronavirus/country/fiji/
+Madagascar,https://www.worldometers.info/coronavirus/country/madagascar/
+Cabo Verde,https://www.worldometers.info/coronavirus/country/cabo-verde/
+Sudan,https://www.worldometers.info/coronavirus/country/sudan/
+Mauritania,https://www.worldometers.info/coronavirus/country/mauritania/
+Bhutan,https://www.worldometers.info/coronavirus/country/bhutan/
+Syria,https://www.worldometers.info/coronavirus/country/syria/
+Burundi,https://www.worldometers.info/coronavirus/country/burundi/
+Seychelles,https://www.worldometers.info/coronavirus/country/seychelles/
+Gabon,https://www.worldometers.info/coronavirus/country/gabon/
+Andorra,https://www.worldometers.info/coronavirus/country/andorra/
+Papua New Guinea,https://www.worldometers.info/coronavirus/country/papua-new-guinea/
+Curaçao,https://www.worldometers.info/coronavirus/country/curacao/
+Aruba,https://www.worldometers.info/coronavirus/country/aruba/
+Tanzania,https://www.worldometers.info/coronavirus/country/tanzania/
+Mauritius,https://www.worldometers.info/coronavirus/country/mauritius/
+Mayotte,https://www.worldometers.info/coronavirus/country/mayotte/
+Togo,https://www.worldometers.info/coronavirus/country/togo/
+Guinea,https://www.worldometers.info/coronavirus/country/guinea/
+Bahamas,https://www.worldometers.info/coronavirus/country/bahamas/
+Isle of Man,https://www.worldometers.info/coronavirus/country/isle-of-man/
+Lesotho,https://www.worldometers.info/coronavirus/country/lesotho/
+Faeroe Islands,https://www.worldometers.info/coronavirus/country/faeroe-islands/
+Haiti,https://www.worldometers.info/coronavirus/country/haiti/
+Mali,https://www.worldometers.info/coronavirus/country/mali/
+Cayman Islands,https://www.worldometers.info/coronavirus/country/cayman-islands/
+Saint Lucia,https://www.worldometers.info/coronavirus/country/saint-lucia/
+Benin,https://www.worldometers.info/coronavirus/country/benin/
+Somalia,https://www.worldometers.info/coronavirus/country/somalia/
+Micronesia,https://www.worldometers.info/coronavirus/country/micronesia/
+Congo,https://www.worldometers.info/coronavirus/country/congo/
+San Marino,https://www.worldometers.info/coronavirus/country/san-marino/
+Solomon Islands,https://www.worldometers.info/coronavirus/country/solomon-islands/
+Timor-Leste,https://www.worldometers.info/coronavirus/country/timor-leste/
+Burkina Faso,https://www.worldometers.info/coronavirus/country/burkina-faso/
+Liechtenstein,https://www.worldometers.info/coronavirus/country/liechtenstein/
+Gibraltar,https://www.worldometers.info/coronavirus/country/gibraltar/
+Grenada,https://www.worldometers.info/coronavirus/country/grenada/
+Macao,https://www.worldometers.info/coronavirus/country/china-macao-sar/
+Bermuda,https://www.worldometers.info/coronavirus/country/bermuda/
+Nicaragua,https://www.worldometers.info/coronavirus/country/nicaragua/
+South Sudan,https://www.worldometers.info/coronavirus/country/south-sudan/
+Tajikistan,https://www.worldometers.info/coronavirus/country/tajikistan/
+Equatorial Guinea,https://www.worldometers.info/coronavirus/country/equatorial-guinea/
+Monaco,https://www.worldometers.info/coronavirus/country/monaco/
+Tonga,https://www.worldometers.info/coronavirus/country/tonga/
+Samoa,https://www.worldometers.info/coronavirus/country/samoa/
+Marshall Islands,https://www.worldometers.info/coronavirus/country/marshall-islands/
+Dominica,https://www.worldometers.info/coronavirus/country/dominica/
+Djibouti,https://www.worldometers.info/coronavirus/country/djibouti/
+CAR,https://www.worldometers.info/coronavirus/country/central-african-republic/
+Gambia,https://www.worldometers.info/coronavirus/country/gambia/
+Saint Martin,https://www.worldometers.info/coronavirus/country/saint-martin/
+Vanuatu,https://www.worldometers.info/coronavirus/country/vanuatu/
+Greenland,https://www.worldometers.info/coronavirus/country/greenland/
+Yemen,https://www.worldometers.info/coronavirus/country/yemen/
+Caribbean Netherlands,https://www.worldometers.info/coronavirus/country/caribbean-netherlands/
+Sint Maarten,https://www.worldometers.info/coronavirus/country/sint-maarten/
+Eritrea,https://www.worldometers.info/coronavirus/country/eritrea/
+Niger,https://www.worldometers.info/coronavirus/country/niger/
+St. Vincent Grenadines,https://www.worldometers.info/coronavirus/country/saint-vincent-and-the-grenadines/
+Guinea-Bissau,https://www.worldometers.info/coronavirus/country/guinea-bissau/
+Comoros,https://www.worldometers.info/coronavirus/country/comoros/
+Antigua and Barbuda,https://www.worldometers.info/coronavirus/country/antigua-and-barbuda/
+Liberia,https://www.worldometers.info/coronavirus/country/liberia/
+Sierra Leone,https://www.worldometers.info/coronavirus/country/sierra-leone/
+Chad,https://www.worldometers.info/coronavirus/country/chad/
+British Virgin Islands,https://www.worldometers.info/coronavirus/country/british-virgin-islands/
+Cook Islands,https://www.worldometers.info/coronavirus/country/cook-islands/
+Turks and Caicos,https://www.worldometers.info/coronavirus/country/turks-and-caicos-islands/
+Saint Kitts and Nevis,https://www.worldometers.info/coronavirus/country/saint-kitts-and-nevis/
+Sao Tome and Principe,https://www.worldometers.info/coronavirus/country/sao-tome-and-principe/
+Palau,https://www.worldometers.info/coronavirus/country/palau/
+St. Barth,https://www.worldometers.info/coronavirus/country/saint-barthelemy/
+Nauru,https://www.worldometers.info/coronavirus/country/nauru/
+Kiribati,https://www.worldometers.info/coronavirus/country/kiribati/
+Anguilla,https://www.worldometers.info/coronavirus/country/anguilla/
+Wallis and Futuna,https://www.worldometers.info/coronavirus/country/wallis-and-futuna-islands/
+Saint Pierre Miquelon,https://www.worldometers.info/coronavirus/country/saint-pierre-and-miquelon/
+Tuvalu,https://www.worldometers.info/coronavirus/country/tuvalu/
+Saint Helena,https://www.worldometers.info/coronavirus/country/saint-helena/
+Falkland Islands,https://www.worldometers.info/coronavirus/country/falkland-islands-malvinas/
+Montserrat,https://www.worldometers.info/coronavirus/country/montserrat/
+Niue,https://www.worldometers.info/coronavirus/country/niue/
+Tokelau,https://www.worldometers.info/coronavirus/country/tokelau/
+Vatican City,https://www.worldometers.info/coronavirus/country/holy-see/
+Western Sahara,https://www.worldometers.info/coronavirus/country/western-sahara/
+China,https://www.worldometers.info/coronavirus/country/china/
+USA,https://www.worldometers.info/coronavirus/country/us/
+India,https://www.worldometers.info/coronavirus/country/india/
+France,https://www.worldometers.info/coronavirus/country/france/
+Germany,https://www.worldometers.info/coronavirus/country/germany/
+Brazil,https://www.worldometers.info/coronavirus/country/brazil/
+S. Korea,https://www.worldometers.info/coronavirus/country/south-korea/
+Japan,https://www.worldometers.info/coronavirus/country/japan/
+Italy,https://www.worldometers.info/coronavirus/country/italy/
+UK,https://www.worldometers.info/coronavirus/country/uk/
+Russia,https://www.worldometers.info/coronavirus/country/russia/
+Turkey,https://www.worldometers.info/coronavirus/country/turkey/
+Spain,https://www.worldometers.info/coronavirus/country/spain/
+Australia,https://www.worldometers.info/coronavirus/country/australia/
+Vietnam,https://www.worldometers.info/coronavirus/country/viet-nam/
+Taiwan,https://www.worldometers.info/coronavirus/country/taiwan/
+Argentina,https://www.worldometers.info/coronavirus/country/argentina/
+Netherlands,https://www.worldometers.info/coronavirus/country/netherlands/
+Mexico,https://www.worldometers.info/coronavirus/country/mexico/
+Iran,https://www.worldometers.info/coronavirus/country/iran/
+Indonesia,https://www.worldometers.info/coronavirus/country/indonesia/
+Poland,https://www.worldometers.info/coronavirus/country/poland/
+Colombia,https://www.worldometers.info/coronavirus/country/colombia/
+Greece,https://www.worldometers.info/coronavirus/country/greece/
+Austria,https://www.worldometers.info/coronavirus/country/austria/
+Portugal,https://www.worldometers.info/coronavirus/country/portugal/
+Ukraine,https://www.worldometers.info/coronavirus/country/ukraine/
+Chile,https://www.worldometers.info/coronavirus/country/chile/
+Malaysia,https://www.worldometers.info/coronavirus/country/malaysia/
+Israel,https://www.worldometers.info/coronavirus/country/israel/
+Belgium,https://www.worldometers.info/coronavirus/country/belgium/
+DPRK,https://www.worldometers.info/coronavirus/country/north-korea/
+Canada,https://www.worldometers.info/coronavirus/country/canada/
+Thailand,https://www.worldometers.info/coronavirus/country/thailand/
+Czechia,https://www.worldometers.info/coronavirus/country/czech-republic/
+Peru,https://www.worldometers.info/coronavirus/country/peru/
+Switzerland,https://www.worldometers.info/coronavirus/country/switzerland/
+Philippines,https://www.worldometers.info/coronavirus/country/philippines/
+South Africa,https://www.worldometers.info/coronavirus/country/south-africa/
+Romania,https://www.worldometers.info/coronavirus/country/romania/
+Denmark,https://www.worldometers.info/coronavirus/country/denmark/
+Hong Kong,https://www.worldometers.info/coronavirus/country/china-hong-kong-sar/
+Sweden,https://www.worldometers.info/coronavirus/country/sweden/
+Singapore,https://www.worldometers.info/coronavirus/country/singapore/
+Serbia,https://www.worldometers.info/coronavirus/country/serbia/
+New Zealand,https://www.worldometers.info/coronavirus/country/new-zealand/
+Iraq,https://www.worldometers.info/coronavirus/country/iraq/
+Hungary,https://www.worldometers.info/coronavirus/country/hungary/
+Bangladesh,https://www.worldometers.info/coronavirus/country/bangladesh/
+Slovakia,https://www.worldometers.info/coronavirus/country/slovakia/
+Georgia,https://www.worldometers.info/coronavirus/country/georgia/
+Jordan,https://www.worldometers.info/coronavirus/country/jordan/
+Ireland,https://www.worldometers.info/coronavirus/country/ireland/
+Pakistan,https://www.worldometers.info/coronavirus/country/pakistan/
+Norway,https://www.worldometers.info/coronavirus/country/norway/
+Finland,https://www.worldometers.info/coronavirus/country/finland/
+Kazakhstan,https://www.worldometers.info/coronavirus/country/kazakhstan/
+Slovenia,https://www.worldometers.info/coronavirus/country/slovenia/
+Lithuania,https://www.worldometers.info/coronavirus/country/lithuania/
+Bulgaria,https://www.worldometers.info/coronavirus/country/bulgaria/
+Guatemala,https://www.worldometers.info/coronavirus/country/guatemala/
+Morocco,https://www.worldometers.info/coronavirus/country/morocco/
+Croatia,https://www.worldometers.info/coronavirus/country/croatia/
+Lebanon,https://www.worldometers.info/coronavirus/country/lebanon/
+Costa Rica,https://www.worldometers.info/coronavirus/country/costa-rica/
+Bolivia,https://www.worldometers.info/coronavirus/country/bolivia/
+Tunisia,https://www.worldometers.info/coronavirus/country/tunisia/
+Cuba,https://www.worldometers.info/coronavirus/country/cuba/
+Ecuador,https://www.worldometers.info/coronavirus/country/ecuador/
+UAE,https://www.worldometers.info/coronavirus/country/united-arab-emirates/
+Panama,https://www.worldometers.info/coronavirus/country/panama/
+Uruguay,https://www.worldometers.info/coronavirus/country/uruguay/
+Mongolia,https://www.worldometers.info/coronavirus/country/mongolia/
+Nepal,https://www.worldometers.info/coronavirus/country/nepal/
+Belarus,https://www.worldometers.info/coronavirus/country/belarus/
+Latvia,https://www.worldometers.info/coronavirus/country/latvia/
+Saudi Arabia,https://www.worldometers.info/coronavirus/country/saudi-arabia/
+Azerbaijan,https://www.worldometers.info/coronavirus/country/azerbaijan/
+Paraguay,https://www.worldometers.info/coronavirus/country/paraguay/
+Bahrain,https://www.worldometers.info/coronavirus/country/bahrain/
+Sri Lanka,https://www.worldometers.info/coronavirus/country/sri-lanka/
+Dominican Republic,https://www.worldometers.info/coronavirus/country/dominican-republic/
+Kuwait,https://www.worldometers.info/coronavirus/country/kuwait/
+Cyprus,https://www.worldometers.info/coronavirus/country/cyprus/
+Myanmar,https://www.worldometers.info/coronavirus/country/myanmar/
+Moldova,https://www.worldometers.info/coronavirus/country/moldova/
+Palestine,https://www.worldometers.info/coronavirus/country/state-of-palestine/
+Estonia,https://www.worldometers.info/coronavirus/country/estonia/
+Venezuela,https://www.worldometers.info/coronavirus/country/venezuela/
+Egypt,https://www.worldometers.info/coronavirus/country/egypt/
+Qatar,https://www.worldometers.info/coronavirus/country/qatar/
+Libya,https://www.worldometers.info/coronavirus/country/libya/
+Ethiopia,https://www.worldometers.info/coronavirus/country/ethiopia/
+Réunion,https://www.worldometers.info/coronavirus/country/reunion/
+Honduras,https://www.worldometers.info/coronavirus/country/honduras/
+Armenia,https://www.worldometers.info/coronavirus/country/armenia/
+Bosnia and Herzegovina,https://www.worldometers.info/coronavirus/country/bosnia-and-herzegovina/
+Oman,https://www.worldometers.info/coronavirus/country/oman/
+Zambia,https://www.worldometers.info/coronavirus/country/zambia/
+North Macedonia,https://www.worldometers.info/coronavirus/country/macedonia/
+Kenya,https://www.worldometers.info/coronavirus/country/kenya/
+Albania,https://www.worldometers.info/coronavirus/country/albania/
+Botswana,https://www.worldometers.info/coronavirus/country/botswana/
+Luxembourg,https://www.worldometers.info/coronavirus/country/luxembourg/
+Brunei ,https://www.worldometers.info/coronavirus/country/brunei-darussalam/
+Montenegro,https://www.worldometers.info/coronavirus/country/montenegro/
+Algeria,https://www.worldometers.info/coronavirus/country/algeria/
+Nigeria,https://www.worldometers.info/coronavirus/country/nigeria/
+Zimbabwe,https://www.worldometers.info/coronavirus/country/zimbabwe/
+Uzbekistan,https://www.worldometers.info/coronavirus/country/uzbekistan/
+Mozambique,https://www.worldometers.info/coronavirus/country/mozambique/
+Martinique,https://www.worldometers.info/coronavirus/country/martinique/
+Afghanistan,https://www.worldometers.info/coronavirus/country/afghanistan/
+Laos,https://www.worldometers.info/coronavirus/country/laos/
+Iceland,https://www.worldometers.info/coronavirus/country/iceland/
+Kyrgyzstan,https://www.worldometers.info/coronavirus/country/kyrgyzstan/
+Guadeloupe,https://www.worldometers.info/coronavirus/country/guadeloupe/
+El Salvador,https://www.worldometers.info/coronavirus/country/el-salvador/
+Trinidad and Tobago,https://www.worldometers.info/coronavirus/country/trinidad-and-tobago/
+Maldives,https://www.worldometers.info/coronavirus/country/maldives/
+Namibia,https://www.worldometers.info/coronavirus/country/namibia/
+Uganda,https://www.worldometers.info/coronavirus/country/uganda/
+Ghana,https://www.worldometers.info/coronavirus/country/ghana/
+Jamaica,https://www.worldometers.info/coronavirus/country/jamaica/
+Cambodia,https://www.worldometers.info/coronavirus/country/cambodia/
+Rwanda,https://www.worldometers.info/coronavirus/country/rwanda/
+Cameroon,https://www.worldometers.info/coronavirus/country/cameroon/
+Malta,https://www.worldometers.info/coronavirus/country/malta/
+Barbados,https://www.worldometers.info/coronavirus/country/barbados/
+Angola,https://www.worldometers.info/coronavirus/country/angola/
+Channel Islands,https://www.worldometers.info/coronavirus/country/channel-islands/
+DRC,https://www.worldometers.info/coronavirus/country/democratic-republic-of-the-congo/
+French Guiana,https://www.worldometers.info/coronavirus/country/french-guiana/
+Senegal,https://www.worldometers.info/coronavirus/country/senegal/
+Malawi,https://www.worldometers.info/coronavirus/country/malawi/
+Ivory Coast,https://www.worldometers.info/coronavirus/country/cote-d-ivoire/
+Suriname,https://www.worldometers.info/coronavirus/country/suriname/
+New Caledonia,https://www.worldometers.info/coronavirus/country/new-caledonia/
+French Polynesia,https://www.worldometers.info/coronavirus/country/french-polynesia/
+Eswatini,https://www.worldometers.info/coronavirus/country/swaziland/
+Guyana,https://www.worldometers.info/coronavirus/country/guyana/
+Belize,https://www.worldometers.info/coronavirus/country/belize/
+Fiji,https://www.worldometers.info/coronavirus/country/fiji/
+Madagascar,https://www.worldometers.info/coronavirus/country/madagascar/
+Cabo Verde,https://www.worldometers.info/coronavirus/country/cabo-verde/
+Sudan,https://www.worldometers.info/coronavirus/country/sudan/
+Mauritania,https://www.worldometers.info/coronavirus/country/mauritania/
+Bhutan,https://www.worldometers.info/coronavirus/country/bhutan/
+Syria,https://www.worldometers.info/coronavirus/country/syria/
+Burundi,https://www.worldometers.info/coronavirus/country/burundi/
+Seychelles,https://www.worldometers.info/coronavirus/country/seychelles/
+Gabon,https://www.worldometers.info/coronavirus/country/gabon/
+Andorra,https://www.worldometers.info/coronavirus/country/andorra/
+Papua New Guinea,https://www.worldometers.info/coronavirus/country/papua-new-guinea/
+Curaçao,https://www.worldometers.info/coronavirus/country/curacao/
+Aruba,https://www.worldometers.info/coronavirus/country/aruba/
+Tanzania,https://www.worldometers.info/coronavirus/country/tanzania/
+Mauritius,https://www.worldometers.info/coronavirus/country/mauritius/
+Mayotte,https://www.worldometers.info/coronavirus/country/mayotte/
+Togo,https://www.worldometers.info/coronavirus/country/togo/
+Guinea,https://www.worldometers.info/coronavirus/country/guinea/
+Bahamas,https://www.worldometers.info/coronavirus/country/bahamas/
+Isle of Man,https://www.worldometers.info/coronavirus/country/isle-of-man/
+Lesotho,https://www.worldometers.info/coronavirus/country/lesotho/
+Faeroe Islands,https://www.worldometers.info/coronavirus/country/faeroe-islands/
+Haiti,https://www.worldometers.info/coronavirus/country/haiti/
+Mali,https://www.worldometers.info/coronavirus/country/mali/
+Cayman Islands,https://www.worldometers.info/coronavirus/country/cayman-islands/
+Saint Lucia,https://www.worldometers.info/coronavirus/country/saint-lucia/
+Benin,https://www.worldometers.info/coronavirus/country/benin/
+Somalia,https://www.worldometers.info/coronavirus/country/somalia/
+Micronesia,https://www.worldometers.info/coronavirus/country/micronesia/
+Congo,https://www.worldometers.info/coronavirus/country/congo/
+San Marino,https://www.worldometers.info/coronavirus/country/san-marino/
+Solomon Islands,https://www.worldometers.info/coronavirus/country/solomon-islands/
+Timor-Leste,https://www.worldometers.info/coronavirus/country/timor-leste/
+Burkina Faso,https://www.worldometers.info/coronavirus/country/burkina-faso/
+Liechtenstein,https://www.worldometers.info/coronavirus/country/liechtenstein/
+Gibraltar,https://www.worldometers.info/coronavirus/country/gibraltar/
+Grenada,https://www.worldometers.info/coronavirus/country/grenada/
+Macao,https://www.worldometers.info/coronavirus/country/china-macao-sar/
+Bermuda,https://www.worldometers.info/coronavirus/country/bermuda/
+Nicaragua,https://www.worldometers.info/coronavirus/country/nicaragua/
+South Sudan,https://www.worldometers.info/coronavirus/country/south-sudan/
+Tajikistan,https://www.worldometers.info/coronavirus/country/tajikistan/
+Equatorial Guinea,https://www.worldometers.info/coronavirus/country/equatorial-guinea/
+Monaco,https://www.worldometers.info/coronavirus/country/monaco/
+Tonga,https://www.worldometers.info/coronavirus/country/tonga/
+Samoa,https://www.worldometers.info/coronavirus/country/samoa/
+Marshall Islands,https://www.worldometers.info/coronavirus/country/marshall-islands/
+Dominica,https://www.worldometers.info/coronavirus/country/dominica/
+Djibouti,https://www.worldometers.info/coronavirus/country/djibouti/
+CAR,https://www.worldometers.info/coronavirus/country/central-african-republic/
+Gambia,https://www.worldometers.info/coronavirus/country/gambia/
+Saint Martin,https://www.worldometers.info/coronavirus/country/saint-martin/
+Vanuatu,https://www.worldometers.info/coronavirus/country/vanuatu/
+Greenland,https://www.worldometers.info/coronavirus/country/greenland/
+Yemen,https://www.worldometers.info/coronavirus/country/yemen/
+Caribbean Netherlands,https://www.worldometers.info/coronavirus/country/caribbean-netherlands/
+Sint Maarten,https://www.worldometers.info/coronavirus/country/sint-maarten/
+Eritrea,https://www.worldometers.info/coronavirus/country/eritrea/
+Niger,https://www.worldometers.info/coronavirus/country/niger/
+St. Vincent Grenadines,https://www.worldometers.info/coronavirus/country/saint-vincent-and-the-grenadines/
+Guinea-Bissau,https://www.worldometers.info/coronavirus/country/guinea-bissau/
+Comoros,https://www.worldometers.info/coronavirus/country/comoros/
+Antigua and Barbuda,https://www.worldometers.info/coronavirus/country/antigua-and-barbuda/
+Liberia,https://www.worldometers.info/coronavirus/country/liberia/
+Sierra Leone,https://www.worldometers.info/coronavirus/country/sierra-leone/
+Chad,https://www.worldometers.info/coronavirus/country/chad/
+British Virgin Islands,https://www.worldometers.info/coronavirus/country/british-virgin-islands/
+Cook Islands,https://www.worldometers.info/coronavirus/country/cook-islands/
+Turks and Caicos,https://www.worldometers.info/coronavirus/country/turks-and-caicos-islands/
+Saint Kitts and Nevis,https://www.worldometers.info/coronavirus/country/saint-kitts-and-nevis/
+Sao Tome and Principe,https://www.worldometers.info/coronavirus/country/sao-tome-and-principe/
+Palau,https://www.worldometers.info/coronavirus/country/palau/
+St. Barth,https://www.worldometers.info/coronavirus/country/saint-barthelemy/
+Nauru,https://www.worldometers.info/coronavirus/country/nauru/
+Kiribati,https://www.worldometers.info/coronavirus/country/kiribati/
+Anguilla,https://www.worldometers.info/coronavirus/country/anguilla/
+Wallis and Futuna,https://www.worldometers.info/coronavirus/country/wallis-and-futuna-islands/
+Saint Pierre Miquelon,https://www.worldometers.info/coronavirus/country/saint-pierre-and-miquelon/
+Tuvalu,https://www.worldometers.info/coronavirus/country/tuvalu/
+Saint Helena,https://www.worldometers.info/coronavirus/country/saint-helena/
+Falkland Islands,https://www.worldometers.info/coronavirus/country/falkland-islands-malvinas/
+Montserrat,https://www.worldometers.info/coronavirus/country/montserrat/
+Niue,https://www.worldometers.info/coronavirus/country/niue/
+Tokelau,https://www.worldometers.info/coronavirus/country/tokelau/
+Vatican City,https://www.worldometers.info/coronavirus/country/holy-see/
+Western Sahara,https://www.worldometers.info/coronavirus/country/western-sahara/
